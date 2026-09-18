@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LambTracker</title>
+  </head>
+  <body class="min-h-screen bg-base-100 text-base-content p-4 sm:p-8">
+    <div id="app" class="w-full max-w-5xl mx-auto flex flex-col items-center gap-8">
+      <div class="space-y-2 text-center">
+        <h1 class="text-4xl font-extrabold tracking-tight">LambTracker</h1>
+        <p class="text-base-content/70 text-lg">Manage and register flock records quickly and cleanly.</p>
+      </div>
+
+      <div class="aura">
+        <button id="open-modal-btn" class="btn btn-primary btn-lg shadow-md">
+          Open follower form
+        </button>
+      </div>
+
+      <div class="w-full">
+        <div class="flex items-center justify-between mb-4 border-b border-base-300 pb-2">
+          <h2 class="text-2xl font-bold">Flock Members</h2>
+          <span id="follower-count" class="badge badge-neutral text-sm">0 followers</span>
+        </div>
+        <div id="followers-container" class="w-full"></div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

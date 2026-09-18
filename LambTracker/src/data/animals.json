@@ -1,0 +1,158 @@
+[
+  {
+    "id": "deer",
+    "name": "Deer",
+    "pack": "Base Game",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/7/77/Deer_form.png/revision/latest?cb=20221026101108"
+  },
+  {
+    "id": "pig",
+    "name": "Pig",
+    "pack": "Base Game",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/1/10/Pig_form.png/revision/latest?cb=20221026101607"
+  },
+  {
+    "id": "dog",
+    "name": "Dog",
+    "pack": "Base Game",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/3/37/Dog_form.png/revision/latest?cb=20221026101132"
+  },
+  {
+    "id": "cat",
+    "name": "Cat",
+    "pack": "Base Game",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/2/24/Cat_form.png/revision/latest?cb=20221026100945"
+  },
+  {
+    "id": "fox",
+    "name": "Fox",
+    "pack": "Base Game",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/c/c5/Fox_form.png/revision/latest?cb=20221026101249"
+  },
+  {
+    "id": "bee",
+    "name": "Bee",
+    "pack": "Cultist Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/8/8d/Bee_form.png/revision/latest?cb=20221026100850"
+  },
+  {
+    "id": "tapir",
+    "name": "Tapir",
+    "pack": "Cultist Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/0/0d/Tapir_form.png/revision/latest?cb=20221026101826"
+  },
+  {
+    "id": "turtle",
+    "name": "Turtle",
+    "pack": "Cultist Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/f/f8/Turtle_form.png/revision/latest?cb=20221026101838"
+  },
+  {
+    "id": "monkey",
+    "name": "Monkey",
+    "pack": "Cultist Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/7/7a/Monkey_form.png/revision/latest?cb=20221026101450"
+  },
+  {
+    "id": "narwhal",
+    "name": "Narwhal",
+    "pack": "Cultist Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/b/b4/Narwhal_form.png/revision/latest?cb=20221026101519"
+  },
+  {
+    "id": "moose",
+    "name": "Moose",
+    "pack": "Heretic Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/4/49/Mosse_form_3.PNG/revision/latest?cb=20230525131411"
+  },
+  {
+    "id": "gorilla",
+    "name": "Gorilla",
+    "pack": "Heretic Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/a/a7/Gorilla_form_1.PNG/revision/latest?cb=20230525131243"
+  },
+  {
+    "id": "mosquito",
+    "name": "Mosquito",
+    "pack": "Heretic Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/b/b9/Mosquito_form_1.PNG/revision/latest?cb=20230525131305"
+  },
+  {
+    "id": "goldfish",
+    "name": "Goldfish",
+    "pack": "Heretic Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/e/ef/Goldfish_form_1.PNG/revision/latest?cb=20230525131213"
+  },
+  {
+    "id": "possum",
+    "name": "Possum",
+    "pack": "Heretic Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/9/9a/Possum_form_3.PNG/revision/latest?cb=20230525131443"
+  },
+  {
+    "id": "hammerhead",
+    "name": "Hammerhead",
+    "pack": "Sinful Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/1/10/Hammerhead_1.png/revision/latest?cb=20240829010344"
+  },
+  {
+    "id": "ladybug",
+    "name": "Ladybug",
+    "pack": "Sinful Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/0/03/Ladybug_1.png/revision/latest?cb=20240829010618"
+  },
+  {
+    "id": "tiger",
+    "name": "Tiger",
+    "pack": "Sinful Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/6/64/Tiger_3.png/revision/latest?cb=20240829010932"
+  },
+  {
+    "id": "llama",
+    "name": "Llama",
+    "pack": "Sinful Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/7/75/Llama_1.png/revision/latest?cb=20240829011005"
+  },
+  {
+    "id": "sphynx",
+    "name": "Sphynx",
+    "pack": "Sinful Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/c/ce/Sphynx_3.png/revision/latest?cb=20240829011304"
+  },
+  {
+    "id": "panda",
+    "name": "Panda",
+    "pack": "Pilgrim Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/7/7b/Panda_1.png/revision/latest?cb=20240828221919"
+  },
+  {
+    "id": "skunk",
+    "name": "Skunk",
+    "pack": "Pilgrim Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/1/13/Skunk_1.png/revision/latest?cb=20240828222322"
+  },
+  {
+    "id": "anteater",
+    "name": "Anteater",
+    "pack": "Pilgrim Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/1/1c/Anteater_1.png/revision/latest?cb=20240828222808"
+  },
+  {
+    "id": "camel",
+    "name": "Camel",
+    "pack": "Pilgrim Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/2/23/Camel_1.png/revision/latest?cb=20240828221404"
+  },
+  {
+    "id": "echidna",
+    "name": "Echidna",
+    "pack": "Pilgrim Pack",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/8/84/Echidna_1.png/revision/latest?cb=20240828223120"
+  },
+  {
+    "id": "sheep",
+    "name": "Sheep",
+    "pack": "Special",
+    "icon": "https://static.wikia.nocookie.net/cult-of-the-lamb/images/5/56/Lamb.png/revision/latest/scale-to-width-down/144?cb=20220920161036"
+  }
+]
